@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597985855064",
+    "project_id": "qrdemofirebase-a856d",
+    "storage_bucket": "qrdemofirebase-a856d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597985855064:android:0c52369ca066cd01bb6c2d",
+        "android_client_info": {
+          "package_name": "com.kazimasum.qrdemofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597985855064-4dhe5kj08efbm3gge1tujeaobc0mo3v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdqy_DQYD8hQ4z_oz1cj8E3xYjUFsO43Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597985855064-4dhe5kj08efbm3gge1tujeaobc0mo3v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
